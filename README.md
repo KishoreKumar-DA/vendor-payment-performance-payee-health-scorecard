@@ -68,8 +68,6 @@ Groups outstanding amounts into the following buckets:
 - More than 90 Days
 - Not Yet Overdue
 
-The reporting date used in the workbook is 14 October 2026.
-
 **4. Payment Attempt Status**
 
 Summarizes 420 payment attempts:
@@ -126,7 +124,7 @@ The dashboard demonstrates how Excel-based analytics can support finance operati
 - Duplicate invoice submissions may inflate preliminary outstanding balances.
 - Outstanding amounts should be reconciled before being treated as final payable liabilities.
 - Payment failure rates depend on the payment attempts recorded in the workbook.
-- The vendor health score is a custom analytical indicator, not an official Amazon or industry scoring standard.
+- The vendor health score is a custom analytical indicator, not an any organization or industry scoring standard.
 - Vendors classified as High Risk should be reviewed against their underlying metrics rather than judged by the score alone.
 
 ## Project Files
@@ -137,7 +135,3 @@ The dashboard demonstrates how Excel-based analytics can support finance operati
 ## Skills Demonstrated
 
 Excel Analytics | Finance Operations | Vendor Payment Analysis | Invoice Aging | Outstanding Balance Monitoring | Payment Failure Analysis | Risk Classification | KPI Reporting | Dashboard Development
-
-## Disclaimer
-
-This project was developed independently for educational and portfolio purposes. All data is synthetic and does not represent actual company, customer, or vendor records.
