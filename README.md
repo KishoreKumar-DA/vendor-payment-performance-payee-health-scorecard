@@ -8,8 +8,6 @@ This project analyzes vendor-level payment performance and outstanding invoice b
 
 The project uses a synthetic portfolio dataset and a custom vendor health scoring model to classify vendors into Healthy, Monitor, and High Risk categories.
 
-**Disclaimer:** This is an independent portfolio simulation using synthetic data. It is not based on Amazon's internal systems, Oracle records, or actual vendor transactions.
-
 ## Business Problem
 
 Recurring payment failures, overdue invoices, and accumulating outstanding balances can create operational challenges for finance teams and vendors.
