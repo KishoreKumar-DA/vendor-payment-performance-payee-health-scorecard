@@ -1,7 +1,6 @@
 # Vendor Payment Performance & Payee Health Scorecard
 
-<img width="1376" height="753" alt="image" src="https://github.com/user-attachments/assets/738cb5a7-3a07-4866-8d5f-9932ca77fd95" />
-
+## <img width="1376" height="753" alt="image" src="https://github.com/user-attachments/assets/738cb5a7-3a07-4866-8d5f-9932ca77fd95" />
 
 ## Project Overview
 
