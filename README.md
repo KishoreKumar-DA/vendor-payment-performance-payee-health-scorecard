@@ -121,11 +121,6 @@ The dashboard demonstrates how Excel-based analytics can support finance operati
 ## Data Quality & Limitations
 
 - All data is synthetic and intended for educational and portfolio use.
-- Duplicate invoice submissions may inflate preliminary outstanding balances.
-- Outstanding amounts should be reconciled before being treated as final payable liabilities.
-- Payment failure rates depend on the payment attempts recorded in the workbook.
-- The vendor health score is a custom analytical indicator, not an any organization or industry scoring standard.
-- Vendors classified as High Risk should be reviewed against their underlying metrics rather than judged by the score alone.
 
 ## Project Files
 
